@@ -1,0 +1,499 @@
+{"message":"Server started on port 3000.","level":"info"}
+info: Server started on port 3000.
+2020-06-24T11:30:38.645Z info: Server started on port 3000.
+2020-06-24T11:45:43.611Z info: Server started on port 3000.
+2020-06-24T11:47:21.522Z info: Server started on port 5000
+2020-06-25T07:01:41.479Z info: Server started on port 3000
+2020-06-25T07:13:02.284Z info: Server started on port 3000
+2020-06-25T07:18:07.946Z info: Server started on port 3000
+2020-06-25T07:18:35.999Z info: 列表接口
+2020-06-25T07:20:22.909Z info: Server started on port 3000
+2020-06-25T07:20:25.340Z info: 列表接口
+2020-06-25T07:20:28.669Z info: 列表接口
+2020-06-25T07:26:49.665Z info: Server started on port 3000.
+2020-06-25T07:26:52.513Z info: 列表接口
+2020-06-25T07:26:54.870Z info: 列表接口
+2020-06-25T07:29:25.468Z info: Server started on port 3000.
+2020-06-25T07:29:32.963Z info: 列表接口
+2020-06-25T07:29:33.737Z info: 列表接口
+2020-06-29T05:14:29.551Z info: 数据库连接成功
+2020-06-29T05:14:29.723Z info: Server started on port 3000.
+2020-06-29T05:15:34.523Z info: 用户信息
+2020-06-29T05:15:34.676Z info: 用户查询结束
+2020-06-29T05:16:15.832Z info: 用户信息
+2020-06-29T05:16:15.847Z info: 用户查询结束
+2020-06-29T05:16:27.719Z info: 用户信息
+2020-06-29T05:16:27.736Z info: 用户查询结束
+2020-06-29T05:16:29.172Z info: 用户信息
+2020-06-29T05:16:29.180Z info: 用户查询结束
+2020-06-29T05:17:08.023Z info: 数据库连接成功
+2020-06-29T05:17:08.107Z info: Server started on port 3000.
+2020-06-29T05:17:11.829Z info: 用户信息
+2020-06-29T05:17:11.968Z info: 用户查询结束
+2020-07-02T07:25:47.461Z info: 数据库连接成功
+2020-07-02T07:25:47.561Z info: Server started on port 3000.
+2020-07-05T08:28:49.646Z info: 数据库连接成功
+2020-07-05T08:28:49.721Z info: Server started on port 3000.
+2020-07-05T08:31:36.487Z info: 用户信息
+2020-07-05T08:31:36.612Z info: 用户查询结束
+2020-07-05T08:33:25.478Z info: {"account":"admin","password":"admin@123"}
+2020-07-05T08:34:44.063Z info: {"account":"admin","password":"admin@123"}
+2020-07-05T08:35:10.743Z info: 数据库连接成功
+2020-07-05T08:35:10.806Z info: Server started on port 3000.
+2020-07-05T08:35:27.202Z info: {"account":"admin","password":"admin@123"}
+2020-07-05T08:35:27.301Z info: 登录成功
+2020-07-05T08:36:29.310Z info: 数据库连接成功
+2020-07-05T08:36:29.352Z info: Server started on port 3000.
+2020-07-05T08:36:32.723Z info: {"account":"admin","password":"admin@123"}
+2020-07-05T08:36:32.848Z info: 登录成功
+2020-07-05T08:36:34.471Z info: {"account":"admin","password":"admin@123"}
+2020-07-05T08:36:34.477Z info: 登录成功
+2020-07-05T08:36:36.805Z info: {"account":"admin","password":"admin@123"}
+2020-07-05T08:36:36.811Z info: 登录成功
+2020-07-05T08:36:38.182Z info: {"account":"admin","password":"admin@123"}
+2020-07-05T08:36:38.189Z info: 登录成功
+2020-07-05T08:36:40.016Z info: {"account":"admin","password":"admin@123"}
+2020-07-05T08:36:40.025Z info: 登录成功
+2020-07-05T08:36:41.206Z info: {"account":"admin","password":"admin@123"}
+2020-07-05T08:36:41.214Z info: 登录成功
+2020-07-05T08:36:52.228Z info: {"account":"admin","password":"admin@123"}
+2020-07-05T08:36:52.245Z info: 登录成功
+2020-07-05T08:37:22.114Z info: {"account":"admin","password":"admin@123"}
+2020-07-05T08:37:22.128Z info: 登录成功
+2020-07-05T08:37:45.436Z info: 数据库连接成功
+2020-07-05T08:37:45.495Z info: Server started on port 3000.
+2020-07-05T08:37:49.691Z info: {"account":"admin","password":"admin@123"}
+2020-07-05T08:37:49.790Z info: 登录成功
+2020-07-05T08:38:27.721Z info: 数据库连接成功
+2020-07-05T08:38:27.763Z info: Server started on port 3000.
+2020-07-05T08:38:30.294Z info: {"account":"admin","password":"admin@123"}
+2020-07-05T08:38:30.385Z info: 登录成功
+2020-07-05T09:10:43.983Z info: 数据库连接成功
+2020-07-05T09:10:44.055Z info: Server started on port 3000.
+2020-07-05T09:14:28.364Z info: 数据库连接成功
+2020-07-05T09:14:28.423Z info: Server started on port 3000.
+2020-07-05T09:17:41.972Z info: 用户信息{"account":"changwei","password":"123456","real_name":"长伟","reg_time":"2020-07-05 17：57：26"}
+2020-07-05T09:19:08.788Z info: 用户信息{"account":"changwei","password":"123456","real_name":"长伟","reg_time":"2020-06-29 10:56:58"}
+2020-07-05T09:19:49.498Z info: 用户信息{"4":1,"account":"changwei","password":"123456","real_name":"长伟","reg_time":"2020-06-29 10:56:58"}
+2020-07-05T09:20:58.670Z info: 用户信息{"4":1,"account":"changwei","password":"123456","real_name":"欢欢","reg_time":"2020-06-29 10:56:58"}
+2020-07-05T09:20:58.671Z error: 参数错误：{"4":1,"account":"changwei","password":"123456","real_name":"欢欢","reg_time":"2020-06-29 10:56:58"}
+2020-07-05T09:24:43.679Z info: 用户信息{"id":4,"account":"changwei","password":"123456","real_name":"欢欢","reg_time":"2020-06-29 10:56:58"}
+2020-07-05T09:26:44.161Z info: 用户id4
+2020-07-05T09:28:15.083Z info: 数据库连接成功
+2020-07-05T09:28:15.152Z info: Server started on port 3000.
+2020-07-05T09:28:20.261Z info: 用户id4
+2020-07-05T09:29:34.906Z info: 数据库连接成功
+2020-07-05T09:29:34.976Z info: Server started on port 3000.
+2020-07-05T09:29:39.755Z info: 用户id4
+2020-07-05T09:30:41.803Z info: 数据库连接成功
+2020-07-05T09:30:41.853Z info: Server started on port 3000.
+2020-07-05T09:30:56.850Z info: 用户id4
+2020-07-05T09:32:44.830Z info: 数据库连接成功
+2020-07-05T09:32:44.882Z info: Server started on port 3000.
+2020-07-05T09:32:56.888Z info: 用户id4
+2020-07-05T14:47:42.402Z info: 数据库连接成功
+2020-07-05T14:47:42.456Z info: Server started on port 3000.
+2020-07-05T14:51:22.541Z info: 数据库连接成功
+2020-07-05T14:51:22.602Z info: Server started on port 3000.
+2020-07-05T14:51:48.235Z info: [object Object]
+2020-07-05T14:52:57.604Z info: 数据库连接成功
+2020-07-05T14:52:57.652Z info: Server started on port 3000.
+2020-07-05T14:53:05.218Z info: [object Object]
+2020-07-05T14:58:28.675Z info: 数据库连接成功
+2020-07-05T14:58:28.722Z info: Server started on port 3000.
+2020-07-05T14:58:35.591Z info: [object Object]
+2020-07-05T15:10:46.073Z info: 数据库连接成功
+2020-07-05T15:10:46.125Z info: Server started on port 3000.
+2020-07-05T15:10:54.944Z info: [object Object]
+2020-07-05T15:10:55.065Z info: [object Object],[object Object]
+2020-07-05T15:11:29.647Z info: [object Object]
+2020-07-05T15:11:29.661Z info: [object Object],[object Object]
+2020-07-05T15:11:32.044Z info: [object Object]
+2020-07-05T15:11:32.050Z info: [object Object],[object Object]
+2020-07-05T15:11:33.849Z info: [object Object]
+2020-07-05T15:11:33.857Z info: [object Object],[object Object]
+2020-07-05T15:11:53.156Z info: [object Object]
+2020-07-05T15:11:53.169Z info: [object Object],[object Object]
+2020-07-05T15:11:55.343Z info: [object Object]
+2020-07-05T15:11:55.352Z info: [object Object],[object Object]
+2020-07-05T15:11:56.575Z info: [object Object]
+2020-07-05T15:11:56.583Z info: [object Object],[object Object]
+2020-07-05T15:14:04.342Z info: 数据库连接成功
+2020-07-05T15:14:04.388Z info: Server started on port 3000.
+2020-07-05T15:14:14.716Z info: [object Object]
+2020-07-05T15:14:14.800Z info: 查询结果：[object Object]
+2020-07-05T15:15:34.443Z info: 数据库连接成功
+2020-07-05T15:15:34.511Z info: Server started on port 3000.
+2020-07-05T15:15:38.209Z info: [object Object]
+2020-07-05T15:15:38.303Z info: 查询结果：[object SequelizeInstance:jd_user]
+2020-07-05T15:16:48.225Z info: 数据库连接成功
+2020-07-05T15:16:48.292Z info: Server started on port 3000.
+2020-07-05T15:16:56.533Z info: [object Object]
+2020-07-05T15:16:56.634Z info: 查询结果：[object SequelizeInstance:jd_user]
+2020-07-05T15:17:16.406Z info: 数据库连接成功
+2020-07-05T15:17:16.453Z info: Server started on port 3000.
+2020-07-05T15:17:22.047Z info: [object Object]
+2020-07-05T15:17:22.155Z info: 查询结果：[object SequelizeInstance:jd_user]
+2020-07-05T15:27:39.472Z info: 数据库连接成功
+2020-07-05T15:27:39.518Z info: Server started on port 3000.
+2020-07-05T15:27:45.378Z info: [object Object]
+2020-07-05T15:27:45.477Z info: 查询结果：undefined
+2020-07-05T15:28:00.768Z info: 数据库连接成功
+2020-07-05T15:28:00.814Z info: Server started on port 3000.
+2020-07-05T15:29:50.640Z info: [object Object]
+2020-07-05T15:29:50.754Z info: 查询结果：[object SequelizeInstance:jd_user]
+2020-07-05T15:30:09.626Z info: 数据库连接成功
+2020-07-05T15:30:09.671Z info: Server started on port 3000.
+2020-07-05T15:30:15.168Z info: [object Object]
+2020-07-05T15:30:15.259Z info: 查询结果：[object SequelizeInstance:jd_user]
+2020-07-05T15:41:08.091Z info: 数据库连接成功
+2020-07-05T15:41:08.154Z info: Server started on port 3000.
+2020-07-05T15:44:16.690Z info: 数据库连接成功
+2020-07-05T15:44:16.735Z info: Server started on port 3000.
+2020-07-05T15:44:25.703Z info: [object Object]
+2020-07-05T15:44:25.823Z info: 查询结果：3
+2020-07-05T15:56:37.163Z info: 数据库连接成功
+2020-07-05T15:56:37.213Z info: Server started on port 3000.
+2020-07-05T15:57:19.829Z info: [object Object]
+2020-07-05T15:57:19.926Z info: 查询结果：[object SequelizeInstance:jd_user]
+2020-07-05T15:59:38.920Z info: 数据库连接成功
+2020-07-05T15:59:38.988Z info: Server started on port 3000.
+2020-07-05T15:59:44.040Z info: [object Object]
+2020-07-05T15:59:44.140Z info: 查询结果：[object SequelizeInstance:jd_user]
+2020-07-05T16:04:26.511Z info: 数据库连接成功
+2020-07-05T16:04:26.561Z info: Server started on port 3000.
+2020-07-05T16:04:29.784Z info: [object Object]
+2020-07-05T16:04:58.454Z info: 数据库连接成功
+2020-07-05T16:04:58.503Z info: Server started on port 3000.
+2020-07-05T16:05:12.386Z info: [object Object]
+2020-07-05T16:05:12.486Z info: 查询结果：[object SequelizeInstance:jd_user]
+2020-07-05T16:05:38.648Z info: 数据库连接成功
+2020-07-05T16:05:38.719Z info: Server started on port 3000.
+2020-07-05T16:05:43.052Z info: [object Object]
+2020-07-05T16:05:43.150Z info: 查询结果：[object Object]
+2020-07-05T16:07:19.604Z info: 数据库连接成功
+2020-07-05T16:07:19.708Z info: Server started on port 3000.
+2020-07-05T16:07:24.653Z info: [object Object]
+2020-07-05T16:07:24.747Z info: 查询结果：[object Object]
+2020-07-05T16:08:09.368Z info: 数据库连接成功
+2020-07-05T16:08:09.491Z info: Server started on port 3000.
+2020-07-05T16:08:13.175Z info: [object Object]
+2020-07-05T16:08:13.277Z info: 查询结果：[object Object]
+2020-07-05T16:10:31.381Z info: 数据库连接成功
+2020-07-05T16:10:31.431Z info: Server started on port 3000.
+2020-07-05T16:10:35.734Z info: [object Object]
+2020-07-05T16:10:35.827Z info: 查询结果：[object Object]
+2020-07-05T16:12:27.551Z info: 数据库连接成功
+2020-07-05T16:12:27.606Z info: Server started on port 3000.
+2020-07-05T16:12:32.715Z info: [object Object]
+2020-07-05T16:12:32.806Z info: 查询结果：[object Object]
+2020-07-05T16:13:08.849Z info: [object Object]
+2020-07-05T16:13:08.867Z info: 查询结果：[object Object]
+2020-07-05T16:13:34.078Z info: 数据库连接成功
+2020-07-05T16:13:34.132Z info: Server started on port 3000.
+2020-07-05T16:13:37.066Z info: [object Object]
+2020-07-05T16:13:37.165Z info: 查询结果：[object Object]
+2020-07-05T16:13:42.256Z info: [object Object]
+2020-07-05T16:13:42.274Z info: 查询结果：[object Object]
+2020-07-05T16:13:43.464Z info: [object Object]
+2020-07-05T16:13:43.476Z info: 查询结果：[object Object]
+2020-07-05T16:13:45.291Z info: [object Object]
+2020-07-05T16:13:45.301Z info: 查询结果：[object Object]
+2020-07-05T16:14:51.362Z info: 数据库连接成功
+2020-07-05T16:14:51.411Z info: Server started on port 3000.
+2020-07-05T16:14:54.242Z info: [object Object]
+2020-07-05T16:14:54.348Z info: 查询结果：[object Object]
+2020-07-06T05:15:28.454Z info: 数据库连接成功
+2020-07-06T05:15:28.503Z info: Server started on port 3000.
+2020-07-06T05:15:53.207Z info: [object Object]
+2020-07-06T05:15:53.334Z info: 查询结果：[object Object]
+2020-07-06T05:48:00.817Z info: 数据库连接成功
+2020-07-06T05:48:00.893Z info: Server started on port 3000.
+2020-07-06T05:48:06.401Z info: [object Object]
+2020-07-06T05:54:56.224Z info: 数据库连接成功
+2020-07-06T05:54:56.269Z info: Server started on port 3000.
+2020-07-06T05:55:01.510Z info: [object Object]
+2020-07-06T05:55:01.596Z info: 查询结果：[object Object]
+2020-07-06T05:55:43.795Z info: [object Object]
+2020-07-06T05:56:52.279Z info: 数据库连接成功
+2020-07-06T05:56:52.325Z info: Server started on port 3000.
+2020-07-06T05:56:54.833Z info: [object Object]
+2020-07-06T05:56:54.834Z info: account参数：1
+2020-07-06T06:01:27.519Z info: 数据库连接成功
+2020-07-06T06:01:27.574Z info: Server started on port 3000.
+2020-07-06T06:01:31.348Z info: [object Object]
+2020-07-06T06:01:31.350Z info: account参数：1
+2020-07-06T06:06:29.172Z info: 数据库连接成功
+2020-07-06T06:06:29.218Z info: Server started on port 3000.
+2020-07-06T06:06:32.281Z info: [object Object]
+2020-07-06T06:06:32.282Z info: account参数：1
+2020-07-06T06:07:04.351Z info: 数据库连接成功
+2020-07-06T06:07:04.394Z info: Server started on port 3000.
+2020-07-06T06:07:36.636Z info: [object Object]
+2020-07-06T06:07:36.638Z info: account参数：1
+2020-07-06T06:07:36.759Z info: 查询结果：[object Object]
+2020-07-06T06:07:56.253Z info: [object Object]
+2020-07-06T06:07:56.254Z info: account参数：undefined
+2020-07-06T06:07:56.274Z info: 查询结果：[object Object]
+2020-07-06T06:11:35.848Z info: 数据库连接成功
+2020-07-06T06:11:35.892Z info: Server started on port 3000.
+2020-07-06T06:11:39.173Z info: [object Object]
+2020-07-06T06:11:39.262Z info: 查询结果：[object Object]
+2020-07-06T06:11:48.026Z info: [object Object]
+2020-07-06T06:11:48.039Z info: 查询结果：[object Object]
+2020-07-06T06:17:01.480Z info: 数据库连接成功
+2020-07-06T06:17:01.524Z info: Server started on port 3000.
+2020-07-06T06:17:07.041Z info: [object Object]
+2020-07-06T06:17:07.126Z info: 查询结果：[object Object]
+2020-07-06T06:17:29.634Z info: 数据库连接成功
+2020-07-06T06:17:29.677Z info: Server started on port 3000.
+2020-07-06T06:17:33.323Z info: [object Object]
+2020-07-06T06:17:33.417Z info: 查询结果：[object Object]
+2020-07-06T06:19:04.419Z info: [object Object]
+2020-07-06T06:19:04.431Z info: 查询结果：[object Object]
+2020-07-06T06:19:11.705Z info: 数据库连接成功
+2020-07-06T06:19:11.775Z info: Server started on port 3000.
+2020-07-06T06:19:14.078Z info: [object Object]
+2020-07-06T06:19:14.178Z info: 查询结果：[object Object]
+2020-07-06T06:19:23.427Z info: [object Object]
+2020-07-06T06:19:23.434Z info: 查询结果：[object Object]
+2020-07-06T06:54:33.932Z info: 数据库连接成功
+2020-07-06T06:54:33.980Z info: Server started on port 3000.
+2020-07-06T06:54:57.798Z info: 数据库连接成功
+2020-07-06T06:54:57.843Z info: Server started on port 3000.
+2020-07-06T06:55:10.911Z info: 数据库连接成功
+2020-07-06T06:55:10.978Z info: Server started on port 3000.
+2020-07-06T06:57:13.530Z info: 数据库连接成功
+2020-07-06T06:57:13.585Z info: Server started on port 3000.
+2020-07-06T06:59:37.328Z info: 数据库连接成功
+2020-07-06T06:59:37.374Z info: Server started on port 3000.
+2020-07-06T07:00:13.340Z info: 数据库连接成功
+2020-07-06T07:00:13.396Z info: Server started on port 3000.
+2020-07-06T07:08:34.560Z info: 数据库连接成功
+2020-07-06T07:08:34.606Z info: Server started on port 3000.
+2020-07-06T07:08:39.616Z info: [object Object]
+2020-07-06T07:09:27.468Z info: 数据库连接成功
+2020-07-06T07:09:27.526Z info: Server started on port 3000.
+2020-07-06T07:09:31.144Z info: [object Object]
+2020-07-06T07:09:31.234Z info: 查询结果：[object Object]
+2020-07-06T07:11:50.249Z info: 数据库连接成功
+2020-07-06T07:11:50.305Z info: Server started on port 3000.
+2020-07-06T07:13:09.094Z info: 数据库连接成功
+2020-07-06T07:13:09.142Z info: Server started on port 3000.
+2020-07-06T07:13:12.795Z info: 权限检查
+2020-07-06T07:14:54.228Z info: 数据库连接成功
+2020-07-06T07:14:54.289Z info: Server started on port 3000.
+2020-07-06T07:14:58.524Z info: 权限检查
+2020-07-06T07:14:58.529Z info: [object Object]
+2020-07-06T07:14:58.637Z info: 查询结果：[object Object]
+2020-07-06T07:20:52.177Z info: 数据库连接成功
+2020-07-06T07:20:52.246Z info: Server started on port 3000.
+2020-07-06T07:25:58.649Z info: 数据库连接成功
+2020-07-06T07:25:58.701Z info: Server started on port 3000.
+2020-07-06T07:42:33.971Z info: 数据库连接成功
+2020-07-06T07:42:34.020Z info: Server started on port 3000.
+2020-07-06T07:43:15.931Z info: 数据库连接成功
+2020-07-06T07:43:15.983Z info: Server started on port 3000.
+2020-07-06T07:48:44.738Z info: 数据库连接成功
+2020-07-06T07:48:44.786Z info: Server started on port 3000.
+2020-07-06T07:49:58.713Z info: 数据库连接成功
+2020-07-06T07:49:58.780Z info: Server started on port 3000.
+2020-07-06T07:50:06.534Z info: 权限检查
+2020-07-06T07:50:34.685Z info: 数据库连接成功
+2020-07-06T07:50:34.731Z info: Server started on port 3000.
+2020-07-06T07:50:37.816Z info: 权限检查
+2020-07-06T07:50:37.817Z info: 没有token，无效请求
+2020-07-06T07:50:37.823Z info: {"account":"admin","password":"admin@123"}
+2020-07-06T07:51:44.071Z info: 数据库连接成功
+2020-07-06T07:51:44.122Z info: Server started on port 3000.
+2020-07-06T07:52:19.013Z info: 数据库连接成功
+2020-07-06T07:52:19.058Z info: Server started on port 3000.
+2020-07-06T07:52:22.062Z info: 权限检查
+2020-07-06T07:52:22.063Z info: 没有token，无效请求
+2020-07-06T07:52:22.072Z info: {"account":"admin","password":"admin@123"}
+2020-07-06T07:56:35.870Z info: 数据库连接成功
+2020-07-06T07:56:35.929Z info: Server started on port 3000.
+2020-07-06T07:56:41.626Z info: 权限检查
+2020-07-06T07:56:41.627Z info: 没有token，无效请求
+2020-07-06T07:56:41.643Z info: {"account":"admin","password":"admin@123"}
+2020-07-06T07:56:41.733Z info: 登录成功[object Object]
+2020-07-06T07:56:59.840Z info: 数据库连接成功
+2020-07-06T07:56:59.891Z info: Server started on port 3000.
+2020-07-06T07:57:06.797Z info: 权限检查
+2020-07-06T07:57:06.799Z info: {"account":"admin","password":"admin@123"}
+2020-07-06T07:57:06.918Z info: 登录成功[object Object]
+2020-07-06T07:58:08.200Z info: 数据库连接成功
+2020-07-06T07:58:08.250Z info: Server started on port 3000.
+2020-07-06T07:58:12.292Z info: 权限检查
+2020-07-06T07:58:12.293Z info: {"account":"admin","password":"admin@123"}
+2020-07-06T07:58:12.398Z info: 登录成功eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJwYXNzd29yZCI6ImFkbWluQDEyMyIsInJlYWxfbmFtZSI6IkFkbWluIiwicmVnX3RpbWUiOiIyMDIwLTA2LTI5VDAyOjU2OjU4LjAwMFoiLCJyZW1hcmsiOm51bGwsImNyZWF0b3IiOm51bGwsImNyZWF0ZWQiOiIyMDIwLTA2LTI5VDAyOjU2OjU4LjAwMFoiLCJtb2RpZmllZCI6bnVsbH0sIm1zZyI6IueUqOaIt-eZu-W9leaIkOWKnyIsImlhdCI6MTU5NDAyMjI5MiwiZXhwIjoxNTk0MDIyMjkyfQ.X0tQKJvdpCLQfna8lLOFccLKfur3QEn4HyA1ROej2Vw
+2020-07-06T08:00:00.207Z info: 数据库连接成功
+2020-07-06T08:00:00.261Z info: Server started on port 3000.
+2020-07-06T08:00:11.749Z info: 权限检查
+2020-07-06T08:00:11.750Z info: {"account":"admin","password":"admin@123"}
+2020-07-06T08:04:10.027Z info: 数据库连接成功
+2020-07-06T08:04:10.096Z info: Server started on port 3000.
+2020-07-06T08:04:13.953Z info: 权限检查
+2020-07-06T08:04:13.954Z info: {"account":"admin","password":"admin@123"}
+2020-07-06T08:05:11.523Z info: 数据库连接成功
+2020-07-06T08:05:11.573Z info: Server started on port 3000.
+2020-07-06T08:05:23.029Z info: 数据库连接成功
+2020-07-06T08:05:23.090Z info: Server started on port 3000.
+2020-07-06T08:06:46.509Z info: 权限检查
+2020-07-06T08:06:46.511Z info: {"account":"admin","password":"admin@123"}
+2020-07-06T08:09:01.748Z info: 数据库连接成功
+2020-07-06T08:09:01.812Z info: Server started on port 3000.
+2020-07-06T08:09:04.488Z info: 权限检查
+2020-07-06T08:09:04.490Z info: {"account":"admin","password":"admin@123"}
+2020-07-06T08:09:34.948Z info: 数据库连接成功
+2020-07-06T08:09:34.994Z info: Server started on port 3000.
+2020-07-06T08:09:38.740Z info: 权限检查
+2020-07-06T08:09:38.742Z info: {"account":"admin","password":"admin@123"}
+2020-07-06T08:09:45.870Z info: 权限检查
+2020-07-06T08:09:51.719Z info: 权限检查
+2020-07-06T08:09:52.889Z info: 权限检查
+2020-07-06T08:09:57.401Z info: 权限检查
+2020-07-06T08:09:57.402Z info: {"account":"admin","password":"admin@123"}
+2020-07-06T08:13:49.454Z info: 数据库连接成功
+2020-07-06T08:13:49.503Z info: Server started on port 3000.
+2020-07-06T08:13:53.054Z info: {"account":"admin","password":"admin@123"}
+2020-07-06T08:14:45.906Z info: 数据库连接成功
+2020-07-06T08:14:45.953Z info: Server started on port 3000.
+2020-07-06T08:14:49.993Z info: 权限检查
+2020-07-06T08:14:49.994Z info: {"account":"admin","password":"admin@123"}
+2020-07-06T08:15:00.661Z info: 数据库连接成功
+2020-07-06T08:15:00.731Z info: Server started on port 3000.
+2020-07-06T08:15:02.845Z info: 权限检查
+2020-07-06T08:15:02.846Z info: {"account":"admin","password":"admin@123"}
+2020-07-06T08:16:30.909Z info: 数据库连接成功
+2020-07-06T08:16:30.957Z info: Server started on port 3000.
+2020-07-06T08:16:48.398Z info: 数据库连接成功
+2020-07-06T08:16:48.454Z info: Server started on port 3000.
+2020-07-06T08:17:57.867Z info: 数据库连接成功
+2020-07-06T08:17:57.920Z info: Server started on port 3000.
+2020-07-06T08:19:13.937Z info: 数据库连接成功
+2020-07-06T08:19:13.998Z info: Server started on port 3000.
+2020-07-06T08:21:08.827Z info: 数据库连接成功
+2020-07-06T08:21:08.892Z info: Server started on port 3000.
+2020-07-06T08:22:44.337Z info: 数据库连接成功
+2020-07-06T08:22:44.382Z info: Server started on port 3000.
+2020-07-06T08:22:49.207Z info: 权限检查
+2020-07-06T08:22:49.208Z info: {"account":"admin","password":"admin@123"}
+2020-07-06T08:23:31.948Z info: 数据库连接成功
+2020-07-06T08:23:31.996Z info: Server started on port 3000.
+2020-07-06T08:23:36.245Z info: 权限检查
+2020-07-06T08:23:36.246Z info: {"account":"admin","password":"admin@123"}
+2020-07-06T08:24:04.150Z info: 权限检查
+2020-07-06T08:24:04.151Z info: 没有token，无效请求
+2020-07-06T08:24:09.826Z info: 权限检查
+2020-07-06T08:24:09.827Z info: 没有token，无效请求
+2020-07-06T08:24:11.357Z info: 权限检查
+2020-07-06T08:24:11.358Z info: 没有token，无效请求
+2020-07-06T08:24:12.407Z info: 权限检查
+2020-07-06T08:24:12.408Z info: 没有token，无效请求
+2020-07-06T08:24:14.875Z info: 权限检查
+2020-07-06T08:24:14.876Z info: 没有token，无效请求
+2020-07-06T08:24:15.952Z info: 权限检查
+2020-07-06T08:24:15.953Z info: 没有token，无效请求
+2020-07-06T08:24:16.918Z info: 权限检查
+2020-07-06T08:24:16.920Z info: 没有token，无效请求
+2020-07-06T08:25:01.629Z info: 数据库连接成功
+2020-07-06T08:25:01.687Z info: Server started on port 3000.
+2020-07-06T08:25:06.620Z info: 权限检查
+2020-07-06T08:25:06.621Z info: 没有token，无效请求
+2020-07-06T08:25:32.849Z info: 数据库连接成功
+2020-07-06T08:25:32.897Z info: Server started on port 3000.
+2020-07-06T08:25:35.908Z info: 权限检查[object Object]
+2020-07-06T08:25:35.909Z info: 没有token，无效请求
+2020-07-06T08:25:37.453Z info: 权限检查[object Object]
+2020-07-06T08:25:37.454Z info: 没有token，无效请求
+2020-07-06T08:26:00.342Z info: 数据库连接成功
+2020-07-06T08:26:00.400Z info: Server started on port 3000.
+2020-07-06T08:26:02.460Z info: 权限检查[object Object]
+2020-07-06T08:26:02.461Z info: 没有token，无效请求
+2020-07-06T08:26:29.275Z info: 数据库连接成功
+2020-07-06T08:26:29.323Z info: Server started on port 3000.
+2020-07-06T08:26:33.452Z info: 权限检查[object Object]
+2020-07-06T08:26:33.453Z info: 没有token，无效请求
+2020-07-06T08:26:34.518Z info: 权限检查[object Object]
+2020-07-06T08:26:34.518Z info: 没有token，无效请求
+2020-07-06T08:26:35.473Z info: 权限检查[object Object]
+2020-07-06T08:26:35.474Z info: 没有token，无效请求
+2020-07-06T08:26:36.378Z info: 权限检查[object Object]
+2020-07-06T08:26:36.379Z info: 没有token，无效请求
+2020-07-06T08:27:06.489Z info: 权限检查[object Object]
+2020-07-06T08:27:06.491Z info: {"account":"admin","password":"admin@123"}
+2020-07-06T08:27:15.906Z info: 权限检查[object Object]
+2020-07-06T08:27:15.907Z info: 验证token
+2020-07-06T08:27:15.911Z info: [object Object]
+2020-07-06T08:27:40.698Z info: 数据库连接成功
+2020-07-06T08:27:40.744Z info: Server started on port 3000.
+2020-07-06T08:27:44.528Z info: 权限检查[object Object]
+2020-07-06T08:27:44.529Z info: 验证token
+2020-07-06T08:27:44.536Z info: [object Object]
+2020-07-06T08:27:44.537Z info: [object Object]
+2020-07-06T08:28:01.228Z info: 权限检查[object Object]
+2020-07-06T08:28:01.229Z info: 验证token
+2020-07-06T08:28:01.238Z info: [object Object]
+2020-07-06T08:28:01.240Z info: [object Object]
+2020-07-06T08:28:11.181Z info: 权限检查[object Object]
+2020-07-06T08:28:11.182Z info: {"account":"admin","password":"admin@123"}
+2020-07-06T08:28:36.696Z info: 权限检查[object Object]
+2020-07-06T08:28:36.698Z info: 验证token
+2020-07-06T08:28:36.703Z info: [object Object]
+2020-07-06T08:28:36.704Z info: [object Object]
+2020-07-06T08:29:19.896Z info: 数据库连接成功
+2020-07-06T08:29:19.940Z info: Server started on port 3000.
+2020-07-06T08:29:33.901Z info: 权限检查[object Object]
+2020-07-06T08:29:33.903Z info: 验证token
+2020-07-06T08:29:33.910Z error: jwt expired
+2020-07-06T08:29:40.545Z info: 权限检查[object Object]
+2020-07-06T08:29:40.546Z info: {"account":"admin","password":"admin@123"}
+2020-07-06T08:29:52.144Z info: 权限检查[object Object]
+2020-07-06T08:29:52.146Z info: 验证token
+2020-07-06T08:29:52.149Z info: [object Object]
+2020-07-06T08:29:52.152Z info: [object Object]
+2020-07-06T08:31:00.476Z info: 数据库连接成功
+2020-07-06T08:31:00.545Z info: Server started on port 3000.
+2020-07-06T08:31:02.788Z info: 权限检查[object Object]
+2020-07-06T08:31:02.789Z info: 验证token
+2020-07-06T08:31:02.803Z error: jwt expired
+2020-07-06T08:31:09.221Z info: 权限检查[object Object]
+2020-07-06T08:31:09.223Z info: {"account":"admin","password":"admin@123"}
+2020-07-06T08:31:20.704Z info: 权限检查[object Object]
+2020-07-06T08:31:20.705Z info: 验证token
+2020-07-06T08:31:20.714Z info: {"data":{"id":1,"account":"admin","password":"admin@123","real_name":"Admin","reg_time":"2020-06-29T02:56:58.000Z","remark":null,"creator":null,"created":"2020-06-29T02:56:58.000Z","modified":null},"msg":"用户登录成功","iat":1594024269,"exp":1594024329}
+2020-07-06T08:31:20.720Z info: [object Object]
+2020-07-06T08:33:08.311Z info: 数据库连接成功
+2020-07-06T08:33:08.363Z info: Server started on port 3000.
+2020-07-06T08:33:12.060Z info: 权限检查[object Object]
+2020-07-06T08:33:12.061Z info: {"account":"admin","password":"admin@123"}
+2020-07-06T08:33:25.272Z info: 权限检查[object Object]
+2020-07-06T08:33:25.273Z info: 验证token
+2020-07-06T08:33:25.283Z info: {"data":{"id":1,"account":"admin","password":"admin@123","real_name":"Admin","reg_time":"2020-06-29T02:56:58.000Z","remark":null,"creator":null,"created":"2020-06-29T02:56:58.000Z","modified":null},"msg":"用户登录成功","iat":1594024392,"exp":1594024452}
+2020-07-06T08:33:25.285Z info: 验证token成功
+2020-07-06T08:33:25.288Z info: [object Object]
+2020-07-06T08:35:50.801Z info: 数据库连接成功
+2020-07-06T08:35:50.864Z info: Server started on port 3000.
+2020-07-06T08:35:53.545Z info: [object Object]
+2020-07-06T08:38:12.096Z info: {"account":"admin","password":"admin@123"}
+2020-07-06T08:38:24.379Z info: [object Object]
+2020-07-06T08:38:24.401Z info: 查询结果：[object Object]
+2020-07-06T08:38:46.848Z info: 数据库连接成功
+2020-07-06T08:38:46.899Z info: Server started on port 3000.
+2020-07-06T08:38:48.602Z info: 权限检查[object Object]
+2020-07-06T08:38:48.602Z info: 验证token
+2020-07-06T08:38:48.609Z info: {"data":{"id":1,"account":"admin","password":"admin@123","real_name":"Admin","reg_time":"2020-06-29T02:56:58.000Z","remark":null,"creator":null,"created":"2020-06-29T02:56:58.000Z","modified":null},"msg":"用户登录成功","iat":1594024692,"exp":1594024752}
+2020-07-06T08:38:48.610Z info: 验证token成功
+2020-07-06T08:38:48.612Z info: [object Object]
+2020-07-06T08:38:48.702Z info: 查询结果：[object Object]
+2020-07-06T08:44:09.471Z info: 数据库连接成功
+2020-07-06T08:44:09.524Z info: Server started on port 3000.
+2020-07-06T08:46:56.963Z info: 数据库连接成功
+2020-07-06T08:46:57.017Z info: Server started on port 3000.
+2020-07-06T08:48:05.439Z info: 数据库连接成功
+2020-07-06T08:48:05.491Z info: Server started on port 3000.
+2020-07-06T08:54:49.474Z info: 数据库连接成功
+2020-07-06T08:54:49.518Z info: Server started on port 3000.
+2020-07-06T09:28:33.162Z info: 数据库连接成功
+2020-07-06T09:28:33.231Z info: Server started on port 3000.
