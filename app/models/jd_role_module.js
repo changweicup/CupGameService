@@ -1,22 +1,45 @@
-/* jshint indent: 2 */
-
+const Sequelize = require('sequelize');
 module.exports = function(sequelize, DataTypes) {
   return sequelize.define('jd_role_module', {
     id: {
-      type: DataTypes.INTEGER(11),
+      autoIncrement: true,
+      type: DataTypes.INTEGER,
       allowNull: false,
       primaryKey: true,
-      autoIncrement: true
+      comment: "主码"
     },
     role_id: {
-      type: DataTypes.INTEGER(11),
-      allowNull: false
+      type: DataTypes.INTEGER,
+      allowNull: false,
+      comment: "角色id"
     },
     module_id: {
-      type: DataTypes.INTEGER(11),
-      allowNull: false
+      type: DataTypes.INTEGER,
+      allowNull: false,
+      comment: "权限id"
     }
   }, {
-    tableName: 'jd_role_module'
+    sequelize,
+    tableName: 'jd_role_module',
+    timestamps: false,
+    indexes: [
+      {
+        name: "PRIMARY",
+        unique: true,
+        using: "BTREE",
+        fields: [
+          { name: "id" },
+        ]
+      },
+      {
+        name: "module_id",
+        unique: true,
+        using: "BTREE",
+        fields: [
+          { name: "module_id" },
+          { name: "role_id" },
+        ]
+      },
+    ]
   });
 };

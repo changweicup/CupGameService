@@ -1,10 +1,10 @@
 #!/bin/bash
 HOST="127.0.0.1"
-DB="jindu_loan"
+DB="cup_zcw"
 USER="root"
 PASS="root"
 PORT="3306"
-DIR="./models"
+DIR="./app/models"
 #JSON_DEFINED="."
 EXEC="sequelize-auto -o ${DIR} -d ${DB} -h ${HOST} -u ${USER} -p ${PORT} -x ${PASS} -e mysql"
 #EXEC="sequelize-auto -o ${DIR} -d ${DB} -h ${HOST} -u ${USER} -p ${PORT} -x ${PASS} -e mysql -a ${JSON_DEFINED}"
@@ -20,6 +20,6 @@ EXEC="sequelize-auto -o ${DIR} -d ${DB} -h ${HOST} -u ${USER} -p ${PORT} -x ${PA
 #-t 表名
 #-e 数据库类型
 #-a  json定义文件路径，可以追加一些自定义配置，如{"timestamps": false}
-#sequelize-auto -o . -h localhost -d jindu_loan -u root -x root -p 3306
+#sequelize-auto -o . -h localhost -d cup_zcw -u root -x root -p 3306
 #run
 $EXEC

@@ -5,7 +5,7 @@ const config = {
     port: process.env.port || 3000,
     // 数据库配置
     db: {
-        database: 'jindu_loan',
+        database: 'cup_zcw',
         username: 'root',
         password: 'root',
         host: 'localhost',

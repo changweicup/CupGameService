@@ -41,7 +41,7 @@ export default function(app){
                             logger.info('生成新的token');
                             res.send({
                                 "code": '403',
-                                "msg": '刷新toke'
+                                "msg": '刷新token'
                             })
                         }
                     } else if (err.name === 'JsonWebTokenError'){

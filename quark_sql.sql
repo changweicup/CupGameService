@@ -1,9 +1,9 @@
-DROP DATABASE IF EXISTS jindu_loan;
-CREATE DATABASE jindu_loan
+DROP DATABASE IF EXISTS cup_zcw;
+CREATE DATABASE cup_zcw
 	CHARACTER SET utf8
 	COLLATE utf8_bin;
 SET NAMES 'utf8';
-USE jindu_loan;
+USE cup_zcw;
 SET FOREIGN_KEY_CHECKS=0;
 
 /* Create Tables */
@@ -134,9 +134,9 @@ CREATE TABLE `jd_module`
 INSERT INTO jd_module (menu_name, father_id, menu_type, menu_level, menu_url, icon, sort)
 VALUES ('首页', 0, 1, 1, '/index', 'fa fa-home fa-lg', 1);
 INSERT INTO jd_module (menu_name, father_id, menu_type, menu_level, menu_url, icon, sort)
-VALUES ('贷款申请', 0, 1, 1, '/loan/req', 'el-icon-user-solid', 2);
+VALUES ('贷款申请', 0, 1, 1, '/user/req', 'el-icon-user-solid', 2);
 INSERT INTO jd_module (menu_name, father_id, menu_type, menu_level, menu_url, icon, sort)
-VALUES ('申请管理', 0, 1, 1, '/loan/manager', 'el-icon-view', 3);
+VALUES ('申请管理', 0, 1, 1, '/user/manager', 'el-icon-view', 3);
 INSERT INTO jd_module (menu_name, father_id, menu_type, menu_level, menu_url, icon, sort)
 VALUES ('贷款审批', 0, 1, 1, '', 'el-icon-office-building', 4);
 INSERT INTO jd_module (menu_name, father_id, menu_type, menu_level, menu_url, icon, sort)
@@ -147,8 +147,8 @@ INSERT INTO jd_module (menu_name, father_id, menu_type, menu_level, menu_url, ic
 VALUES ('标的管理', 0, 1, 2, '/contract/manager', 'xx', 7);
 
 
-DROP TABLE IF EXISTS `jd_loan`;
-CREATE TABLE `jd_loan`
+DROP TABLE IF EXISTS `jd_user`;
+CREATE TABLE `jd_user`
 (
 	`id`             INT           NOT NULL AUTO_INCREMENT      COMMENT 'id',
 	`name`           VARCHAR(50)   NOT NULL                     COMMENT '名称',
@@ -180,39 +180,8 @@ CREATE TABLE `jd_loan`
 	`creator`        VARCHAR(10)   DEFAULT NULL                 COMMENT '创建人',
 	`created`        DATETIME(0)   DEFAULT CURRENT_TIMESTAMP    COMMENT '创建时间',
 	`modified`       DATETIME(0)   DEFAULT NULL                 COMMENT '修改时间',
-	CONSTRAINT `PK_jd_loan` PRIMARY KEY (`id`)
-) COMMENT='贷款申请表'
-;
-
-DROP TABLE IF EXISTS `jd_loan_approve`;
-CREATE TABLE `jd_loan_approve`
-(
-	`id`             INT           NOT NULL AUTO_INCREMENT      COMMENT 'id',
-	`loan_id`        INT           NOT NULL                     COMMENT '贷款id',
-	`name`           VARCHAR(50)   NOT NULL                     COMMENT '审批人',
-	`result`         VARCHAR(10)   DEFAULT NULL                 COMMENT '通过(pass)/拒绝(refuse)',
-	`step`           VARCHAR(10)   DEFAULT NULL                 COMMENT '审批步骤(first/final)',
-	`creator`        VARCHAR(10)   DEFAULT NULL                 COMMENT '创建人',
-	`created`        DATETIME(0)   DEFAULT CURRENT_TIMESTAMP    COMMENT '创建时间',
-	`modified`       DATETIME(0)   DEFAULT NULL                 COMMENT '修改时间',
-	CONSTRAINT `PK_jd_loan_approve` PRIMARY KEY (`id`)
-) COMMENT='贷款审批表'
-;
-
-DROP TABLE IF EXISTS `jd_contract`;
-CREATE TABLE `jd_contract`
-(
-	`id`             INT           NOT NULL AUTO_INCREMENT      COMMENT 'id',
-	`loan_id`        INT           NOT NULL                     COMMENT '贷款id',
-	`title`          VARCHAR(50)   NOT NULL                     COMMENT '合同标题',
-	`content`        TEXT          NOT NULL                     COMMENT '合同内容',
-	`creator`        VARCHAR(10)   DEFAULT NULL                 COMMENT '创建人',
-	`created`        DATETIME(0)   DEFAULT CURRENT_TIMESTAMP    COMMENT '创建时间',
-	`modified`       DATETIME(0)   DEFAULT NULL                 COMMENT '修改时间',
-	CONSTRAINT `PK_jd_contract` PRIMARY KEY (`id`)
-) COMMENT='贷款合同表'
-;
-
+	CONSTRAINT `PK_jd_user` PRIMARY KEY (`id`)
+) COMMENT='用户表'
 
 -- ----------------------------
 -- Table structure for jd_area_info

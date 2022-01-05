@@ -1,35 +1,52 @@
-/* jshint indent: 2 */
-
+const Sequelize = require('sequelize');
 module.exports = function(sequelize, DataTypes) {
   return sequelize.define('jd_role', {
     id: {
-      type: DataTypes.INTEGER(11),
+      autoIncrement: true,
+      type: DataTypes.INTEGER,
       allowNull: false,
       primaryKey: true,
-      autoIncrement: true
+      comment: "角色id"
     },
     role_name: {
       type: DataTypes.STRING(50),
-      allowNull: false
+      allowNull: false,
+      comment: "角色名称"
     },
     role_dsc: {
       type: DataTypes.STRING(500),
-      allowNull: false
+      allowNull: false,
+      comment: "角色描述"
     },
     creator: {
       type: DataTypes.STRING(10),
-      allowNull: true
+      allowNull: true,
+      comment: "创建人"
     },
     created: {
       type: DataTypes.DATE,
       allowNull: true,
-      defaultValue: sequelize.literal('CURRENT_TIMESTAMP')
+      defaultValue: Sequelize.Sequelize.literal('CURRENT_TIMESTAMP'),
+      comment: "创建时间"
     },
     modified: {
       type: DataTypes.DATE,
-      allowNull: true
+      allowNull: true,
+      comment: "修改时间"
     }
   }, {
-    tableName: 'jd_role'
+    sequelize,
+    tableName: 'jd_role',
+    timestamps: false,
+    indexes: [
+      {
+        name: "PRIMARY",
+        unique: true,
+        using: "BTREE",
+        fields: [
+          { name: "id" },
+        ]
+      },
+    ]
   });
 };

@@ -1,39 +1,57 @@
-/* jshint indent: 2 */
-
+const Sequelize = require('sequelize');
 module.exports = function(sequelize, DataTypes) {
   return sequelize.define('jd_contract', {
     id: {
-      type: DataTypes.INTEGER(11),
+      autoIncrement: true,
+      type: DataTypes.INTEGER,
       allowNull: false,
       primaryKey: true,
-      autoIncrement: true
+      comment: "id"
     },
-    loan_id: {
-      type: DataTypes.INTEGER(11),
-      allowNull: false
+    user_id: {
+      type: DataTypes.INTEGER,
+      allowNull: false,
+      comment: "贷款id"
     },
     title: {
       type: DataTypes.STRING(50),
-      allowNull: false
+      allowNull: false,
+      comment: "合同标题"
     },
     content: {
       type: DataTypes.TEXT,
-      allowNull: false
+      allowNull: false,
+      comment: "合同内容"
     },
     creator: {
       type: DataTypes.STRING(10),
-      allowNull: true
+      allowNull: true,
+      comment: "创建人"
     },
     created: {
       type: DataTypes.DATE,
       allowNull: true,
-      defaultValue: sequelize.literal('CURRENT_TIMESTAMP')
+      defaultValue: Sequelize.Sequelize.literal('CURRENT_TIMESTAMP'),
+      comment: "创建时间"
     },
     modified: {
       type: DataTypes.DATE,
-      allowNull: true
+      allowNull: true,
+      comment: "修改时间"
     }
   }, {
-    tableName: 'jd_contract'
+    sequelize,
+    tableName: 'jd_contract',
+    timestamps: false,
+    indexes: [
+      {
+        name: "PRIMARY",
+        unique: true,
+        using: "BTREE",
+        fields: [
+          { name: "id" },
+        ]
+      },
+    ]
   });
 };

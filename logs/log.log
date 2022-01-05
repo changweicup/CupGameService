@@ -497,3 +497,16 @@ info: Server started on port 3000.
 2020-07-06T08:54:49.518Z info: Server started on port 3000.
 2020-07-06T09:28:33.162Z info: 数据库连接成功
 2020-07-06T09:28:33.231Z info: Server started on port 3000.
+2022-01-05T14:55:14.190Z info: 数据库连接成功
+2022-01-05T14:55:14.285Z info: Server started on port 3000.
+2022-01-05T14:58:16.493Z info: 权限检查[object Object]
+2022-01-05T14:58:16.494Z info: 没有token，无效请求
+2022-01-05T15:02:31.710Z info: 权限检查[object Object]
+2022-01-05T15:02:31.711Z info: 没有token，无效请求
+2022-01-05T15:02:31.735Z info: 权限检查[object Object]
+2022-01-05T15:02:31.736Z info: 没有token，无效请求
+2022-01-05T15:11:34.086Z info: 权限检查[object Object]
+2022-01-05T15:11:51.737Z info: 权限检查[object Object]
+2022-01-05T15:11:51.738Z info: 没有token，无效请求
+2022-01-05T15:11:51.798Z info: 权限检查[object Object]
+2022-01-05T15:11:51.798Z info: 没有token，无效请求
