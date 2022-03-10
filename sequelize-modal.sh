@@ -1,8 +1,8 @@
 #!/bin/bash
-HOST="127.0.0.1"
-DB="cup_zcw"
+HOST="1.12.181.98"
+DB="games_plat"
 USER="root"
-PASS="root"
+PASS="119728"
 PORT="3306"
 DIR="./app/models"
 #JSON_DEFINED="."

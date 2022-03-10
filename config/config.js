@@ -5,10 +5,10 @@ const config = {
     port: process.env.port || 3000,
     // 数据库配置
     db: {
-        database: 'cup_zcw',
+        database: 'games_plat',
         username: 'root',
-        password: 'root',
-        host: 'localhost',
+        password: '119728',
+        host: '1.12.181.98',
         port: '3306',
         timezone: '+08:00', //时区
         dialect: 'mysql', //方言

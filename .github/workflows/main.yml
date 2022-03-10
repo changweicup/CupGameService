@@ -1,0 +1,35 @@
+name: CupGameService to tengxunyun
+
+on: # 此CI/CD触发时的事件
+  push: # 在代码提交时自动触发
+    branches:
+      - main
+
+jobs: 
+  build: # 构建job
+    runs-on: ubuntu-latest # 跑workflow的服务器系统
+    steps: # job的一系列动作
+      # 切换分支获取源码
+      - name: Checkout # step的名称，将会在 github action 的控制台中显示
+        # 选择一个action，可以理解为若干 steps.run，有利于代码复用
+        uses: actions/checkout@master
+      # 安装使用 node:12
+      - name: use Node.js 12
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12
+      # 运行命令，npm install
+      - name: npm install
+        run: |
+          npm install
+        env:
+          CI: true
+      # 部署到腾讯云服务器
+      - name: 部署
+        uses: hengkx/ssh-deploy@v1.0.1
+        with: # 以下为参数
+          USERNAME: ${{ secrets.REMOTE_USER }}
+          PASSWORD: ${{ secrets.REMOTE_PASS }}
+          HOST: ${{ secrets.REMOTE_HOST }}
+          SOURCE: './'
+          TARGET: '/opt/gamesService/'

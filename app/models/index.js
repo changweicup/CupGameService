@@ -26,7 +26,7 @@ import logger from '../util/logger';
  //找到数据模型文件(jd开头，排除index.js)
  fs.readdirSync(__dirname)
    .filter(f => {
-       return f !== 'index.js'
+       return f !== 'index.js' && f !== 'init-models.js'
    })
    .forEach(f => {
         const model = sequelize.import(path.join(__dirname, f));
