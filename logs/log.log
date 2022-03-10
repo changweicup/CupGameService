@@ -2217,3 +2217,10 @@ info: Server started on port 3000.
 2022-03-10T15:09:53.528Z info: 查询结果：[object Object]
 2022-03-10T15:09:56.689Z info: 菜单idundefined
 2022-03-10T15:10:02.892Z info: 菜单idundefined
+2022-03-10T15:11:18.898Z info: 数据库连接成功
+2022-03-10T15:11:19.116Z info: Server started on port 3000.
+2022-03-10T15:11:41.774Z info: 查询结果：[object SequelizeInstance:plat_menu],[object SequelizeInstance:plat_menu],[object SequelizeInstance:plat_menu],[object SequelizeInstance:plat_menu]
+2022-03-10T15:11:41.775Z info: 查询结果：[object Object]
+2022-03-10T15:11:43.003Z info: 菜单id"2ff1041d-9faf-11ec-8041-80fa5b746f2a"
+2022-03-10T15:11:43.132Z info: 查询结果：[object SequelizeInstance:plat_menu],[object SequelizeInstance:plat_menu],[object SequelizeInstance:plat_menu]
+2022-03-10T15:11:43.133Z info: 查询结果：[object Object]
